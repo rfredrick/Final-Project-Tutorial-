@@ -14,3 +14,8 @@
 2. Programmers
 >Computer programmers are strictly software focused. These are individuals who write and test code that make up software programs. This can range from computer games to operating systems. An expert level of code and attention to detail are needed.
 3. Web Developers 
+>These individuals are responsible for building websites and the infrastructures behind them. Combining technical prowess and creativity to make something that is visible to the world. Creativity is key for a job like this and most jobs require some sort of portfolio to show your work. 
+4. Computer Systems Analyst
+>These are the multitaskers of IT. They must understand everything from hardware, software, and networks. Not only understand them individually, but also understand how they all come together to work as one. A huge part of their job is to make recommendations to their company for which systems are the best to use at the current time. They also often take these systems and tailor them to their companies specific needs. This job requires a multitude of skills and somsone who has the ability to persuade. 
+5. IT Security 
+>
