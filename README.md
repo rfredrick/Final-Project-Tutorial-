@@ -22,3 +22,5 @@
 6. Network Engineering
 >These individuals are in charge of setting up, administering, and maintaining local and wide area networks for an organization or business. They may or may not also be responsible for security, data storage, and disaster recover. Usually a network engineering job will require a computer science degree as it is typically needed to do this job effectivly. 
 ---
+
+Although there are many sites and opportunities out there to find out which field of IT is best for you (including this tutorial) I also went ahead and included another link here (https://www.intelligenthq.com/technology/information-technology-careers-finding-the-right-computer-job-fit-for-you/) to another website that disucces this more. 
