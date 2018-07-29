@@ -18,4 +18,7 @@
 4. Computer Systems Analyst
 >These are the multitaskers of IT. They must understand everything from hardware, software, and networks. Not only understand them individually, but also understand how they all come together to work as one. A huge part of their job is to make recommendations to their company for which systems are the best to use at the current time. They also often take these systems and tailor them to their companies specific needs. This job requires a multitude of skills and somsone who has the ability to persuade. 
 5. IT Security 
->
+>This is one of the most up and coming fields in IT. Individuals in this field are responsible for keeping organizations safe from malicious digitital attacks. Some tasks include implementing and running security software or trying to penetrate firewalls to find their weakness. This is an important job that has a lot of pressure involved with it, but can be the most rewarding.
+6. Network Engineering
+>These individuals are in charge of setting up, administering, and maintaining local and wide area networks for an organization or business. They may or may not also be responsible for security, data storage, and disaster recover. Usually a network engineering job will require a computer science degree as it is typically needed to do this job effectivly. 
+---
