@@ -11,6 +11,7 @@
 ---
 1. Technical Support
 >Tech support for short, is the area of IT that most people think of right away. It is a job where you provide expert troubleshooting advice to clients. You will handle both hardware and software issues and assist individuals who have trouble with their computers.
+![A Day in the Life](https://www.youtube.com/watch?v=RYdmWa-i7Gs)
 2. Programmers
 >Computer programmers are strictly software focused. These are individuals who write and test code that make up software programs. This can range from computer games to operating systems. An expert level of code and attention to detail are needed.
 3. Web Developers 
