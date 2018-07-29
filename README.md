@@ -28,4 +28,7 @@ Although there are many sites and opportunities out there to find out which fiel
 
 Additionally I have included a quiz link [here](https://yourfuturein.it/quiz-without-login/) that really lets you get a good idea on which field you might be good in or enjoy based off your answers. 
 
-![You Decide Your future!](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwiJ0t2qr8XcAhVvUd8KHR9eBcEQjRx6BAgBEAU&url=https%3A%2F%2Fwww.lakewoodwater.org%2Flwd%2Fpage%2Finformation-technology&psig=AOvVaw0xiSUVmSECYFFdzJ40Y7kW&ust=1532990094685129)
+---
+YOU DECIDE YOUR FUTURE!
+---
+
