@@ -1,4 +1,4 @@
-## Deciding your spot in Information Technology 
+## Deciding your Future in Information Technology 
 #### By: Ryan Fredrick
 ---
 ### Summary 
