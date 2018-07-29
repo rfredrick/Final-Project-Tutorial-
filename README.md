@@ -1,2 +1,2 @@
-#### Deciding your spot in Information Technology 
-## By: Ryan Fredrick 
+## Deciding your spot in Information Technology 
+#### By: Ryan Fredrick 
